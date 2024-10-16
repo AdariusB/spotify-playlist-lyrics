@@ -7,6 +7,7 @@ To create an application that can find the most common lyrics from a Spotify pla
 ## Tools being used
 
 [musixmatch](https://coda.io/@musixmatch/musixmatch-lyrics-api) Lyrics API: Retrieve lyrics from each song. **Note:** Due to being an individual developer I am not granted the ability to get 100% of the lyrics, only 30%.
+
 [Spotify API](https://developer.spotify.com/): To read playlists and get song information.
 
 ## Notes
